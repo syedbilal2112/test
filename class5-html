@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	<ul>
+		<li>Mango</li>
+		<li>Orange</li>
+		<li>Apple</li>
+	</ul>
+	<ol>
+		<li>Mango</li>
+		<li>Orange</li>
+		<li>Apple</li>
+	</ol>
+	</body>
+</html>
